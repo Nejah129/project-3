@@ -1,14 +1,14 @@
 
 
 
-<!--                     i did work on other github account  this is the link of it that's it's connected to travis ci            -->
+            i did work on other github account  this is the link of it that's it's connected to travis ci            
                       
 
 
                                https://github.com/MrNejah/udacity-project-3
 
 
-<!--      udacity account linked to this github account and i couldn't switched ,so i did push my work here to to this account  -->
+     udacity account linked to this github account and i couldn't switched ,so i did push my work here to to this account  
 
 
 
